@@ -1,5 +1,5 @@
 # Download and Extract
-Download the viXAlign tool to your computer and extract zip file, we get three files: .gitignore, README.md and viXAlign.zip. Then, extract viXAlign.zip file we have the viXAlign folder. Finally, copy the viXAlign folder to the desired location.
+Clone or download the viXAlign tool to your computer and extract zip file, we get three files: .gitignore, README.md and viXAlign.zip. Then, extract viXAlign.zip file we have the viXAlign folder. Finally, copy the viXAlign folder to the desired location.
 
 # The code
 The viXAlign tool is coded in Java. You can use NetBeans IDE 8.2 or later to open and modify the code freely.

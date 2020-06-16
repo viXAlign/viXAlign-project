@@ -2,7 +2,7 @@
 Download the viXAlign tool to your computer and extract zip file, we get three files: .gitignore, README.md and viXAlign.zip. Then, extract viXAlign.zip file we have the viXAlign folder. Finally, copy the viXAlign folder to the desired location.
 
 # The code
-The viXAlign tool is scripted in Java. You can use NetBeans IDE 8.2 or later to free to open and modify the code.
+The viXAlign tool is coded in Java. You can use NetBeans IDE 8.2 or later to open and modify the code freely.
 
 # Example
 In the viXAlign folder contains 2 corpus: dulichen.out.xml and dulichvn.out.xml. You can try this tool on:

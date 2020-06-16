@@ -1,2 +1,13 @@
-# viXAlign-project
-This is the second release of a Vietnamese text processing toolkit, which is called "viXAlign", developed by [Nguyen Tien Ha - Nguyen Thi Minh Huyen - Nguyen Minh Hai] at VNU University of Ccience, Hanoi. viXAlign gets more than 80% accurency for the language pair of Vietnamese - English.
+# Download and Extract
+Download the viXAlign tool to your computer and extract zip file, we get three files: .gitignore, README.md and viXAlign.zip. Then, extract viXAlign.zip file we have the viXAlign folder. Finally, copy the viXAlign folder to the desired location.
+
+# The code
+The viXAlign tool is scripted in Java. You can use NetBeans IDE 8.2 or later to free to open and modify the code.
+
+# Example
+In the viXAlign folder contains 2 corpus: dulichen.out.xml and dulichvn.out.xml. You can try this tool on:
+Step 1: Open viXAlign  by NetBeans IDE.
+Step2: Right-click on Arcade2, select Properties, the dialog box appears. In the Categories box, select run. 
+Step 3: In the Arguments box, enter 2 paths that points to the 2 corpus: dulichen.out.xml and dulichvn.out.xml. The paths are separated by a space. 
+Step 4: Click the OK button on the dialog box. 
+Step 5: Click the Run Project button and get the results in the viXAlign\out folder.

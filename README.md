@@ -5,7 +5,7 @@ Download the viXAlign tool to your computer and extract zip file, we get three f
 The viXAlign tool is coded in Java. You can use NetBeans IDE 8.2 or later to open and modify the code freely.
 
 # Example
-In \viXAlign\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK folder contains 2 corpus: dulichen.out.xml and dulichvn.out.xml. You can try this tool:
+In \viXAlign\ArcadeSupport\Corpus\CorpusOK\HoangTuBe-OK folder contains 2 Vietnamese-English corpus: dulichen.out.xml and dulichvn.out.xml. You can try this tool:
 
 Step 1: Open viXAlign  by NetBeans IDE.
 
